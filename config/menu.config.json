@@ -1,0 +1,19 @@
+[
+    {
+        "items": [
+            {
+                "cssClass": "",
+                "id": 1575049451542,
+                "items": [],
+                "label": "item-1",
+                "link": "empty",
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "frontpage"
+            }
+        ],
+        "name": "menu",
+        "position": "mainMenu"
+    }
+]
