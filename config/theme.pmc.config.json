@@ -7,6 +7,7 @@
         "tagsPostsPerPage": 8
     },
     "customConfig": {
+        "colorsMenu": "#FFFFFF",
         "contentIndex": "hello!",
         "imagesBackground": "media/website/bg3.jpg",
         "imagesFavicon": "media/website/favicon2.png"
