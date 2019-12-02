@@ -1,0 +1,15 @@
+/*
+ * Put your custom CSS code here
+ */
+
+.indexTop p {
+  font-size: 1.25em;
+  margin-top: 1.5em;
+  margin-bottom: 0;
+}
+
+.indexTop h1 {
+  font-family: 'planewalker';
+  font-size: 7em;
+  margin-top: 0;
+}

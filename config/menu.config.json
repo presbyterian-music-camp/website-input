@@ -4,55 +4,7 @@
             {
                 "cssClass": "",
                 "id": 1575049451542,
-                "items": [
-                    {
-                        "cssClass": "",
-                        "id": 1575225110912,
-                        "items": [
-                            {
-                                "cssClass": "",
-                                "id": 1575225126126,
-                                "items": [
-                                    {
-                                        "cssClass": "",
-                                        "id": 1575225149861,
-                                        "items": [
-                                            {
-                                                "cssClass": "",
-                                                "id": 1575225155221,
-                                                "items": [],
-                                                "label": "s4",
-                                                "link": 1,
-                                                "rel": "",
-                                                "target": "_self",
-                                                "title": "",
-                                                "type": "post"
-                                            }
-                                        ],
-                                        "label": "s3",
-                                        "link": 1,
-                                        "rel": "",
-                                        "target": "_self",
-                                        "title": "",
-                                        "type": "post"
-                                    }
-                                ],
-                                "label": "s2",
-                                "link": 1,
-                                "rel": "",
-                                "target": "_self",
-                                "title": "",
-                                "type": "post"
-                            }
-                        ],
-                        "label": "submenu",
-                        "link": 1,
-                        "rel": "",
-                        "target": "_self",
-                        "title": "",
-                        "type": "post"
-                    }
-                ],
+                "items": [],
                 "label": "item-1",
                 "link": "empty",
                 "rel": "",
