@@ -1,10 +1,9 @@
 ## todo
 - about camp
     - marilyn's article
-        - pics
     - history
 - front page: diversity, community
-    - pics
+- get kaitlin's stuff in
 
 - share with subcommittee
 
