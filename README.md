@@ -17,6 +17,12 @@
     - facebook
     - tom gemmell fund application
 - asp application: please notify the Treasurer immediately at pmcregistrar@gmail.com.
+- tom gemmell application still aimed toward rara
+- what is this address?
+    Presbyterian Music Camp
+    C/O St. Paul’s Presbyterian
+    56 Thames Street S
+    Ingersoll, ON  N5C 2S9
 
 - youtube
 - shared album

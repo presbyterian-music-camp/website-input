@@ -14,6 +14,17 @@
             },
             {
                 "cssClass": "",
+                "id": 1575866493259,
+                "items": [],
+                "label": "contact",
+                "link": 5,
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "post"
+            },
+            {
+                "cssClass": "",
                 "id": 1575049451542,
                 "items": [],
                 "label": "register!",
