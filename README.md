@@ -1,8 +1,4 @@
 ## todo
-- history
-- get kaitlin's stuff in
-- dan-5c - link to registration form
-    - fund info
 - dan-5d - link to camp tamarack
 - dan-5e - contact
 - yearly info
@@ -17,7 +13,10 @@
 - generic week
 
 - where does formstack link to when complete?
-- if we move off musicamp.ca, what still links there? (facebook)
+- if we move off musicamp.ca, what still links there?
+    - facebook
+    - tom gemmell fund application
+- asp application: please notify the Treasurer immediately at pmcregistrar@gmail.com.
 
 - youtube
 - shared album
