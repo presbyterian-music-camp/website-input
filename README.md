@@ -1,7 +1,5 @@
 ## todo
-- about camp
-    - marilyn's article
-    - history
+- history
 - get kaitlin's stuff in
 - dan-5c - link to registration form
     - fund info

@@ -3,6 +3,17 @@
         "items": [
             {
                 "cssClass": "",
+                "id": 1575858312427,
+                "items": [],
+                "label": "about",
+                "link": 3,
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "post"
+            },
+            {
+                "cssClass": "",
                 "id": 1575049451542,
                 "items": [],
                 "label": "register!",
