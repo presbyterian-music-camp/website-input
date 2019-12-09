@@ -18,7 +18,9 @@
         "linksInstagram": "https://www.instagram.com/pmcmuskoka/"
     },
     "postConfig": {
-        "isFrontPage": 0
+        "css": "",
+        "isFrontPage": 0,
+        "showAuthor": 0
     },
     "defaultTemplates": {
         "post": ""
