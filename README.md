@@ -1,6 +1,4 @@
 ## todo
-- heap analytics
-
 - review with hilary
 
 - where does formstack link to when complete?
