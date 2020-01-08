@@ -25,6 +25,17 @@
             },
             {
                 "cssClass": "",
+                "id": 1578516448481,
+                "items": [],
+                "label": "blog",
+                "link": 16,
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "post"
+            },
+            {
+                "cssClass": "",
                 "id": 1575866493259,
                 "items": [],
                 "label": "contact",
