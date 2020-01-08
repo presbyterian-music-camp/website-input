@@ -1,16 +1,11 @@
 ## todo
-- custom domain https
 - registration
     - alison
-        - all 3 roles have emails
-        - only treasurer has address
         - e-transfer primary, snail mail 2nd
-        - asp fund definitely registrar, not treasurer
-        - tom gemmell fund, bootstrap comms with convenor by email
     - debi's edits
 - clearer home page indication?
 - lindsay faq
-- bradley's content?
+- bradley's content
 - cynthia's content
 - marilyn's edited about page
 
