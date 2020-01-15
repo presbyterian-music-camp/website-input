@@ -3,7 +3,6 @@
     - alison
         - e-transfer primary, snail mail 2nd
     - debi's edits
-- clearer home page indication?
 - lindsay faq
 - marilyn's edited about page
 
