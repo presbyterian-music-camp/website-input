@@ -12,6 +12,7 @@
         "colorsMenu": "#FFFFFF",
         "colorsPage": "rgba(251,249,244,0.9019607843137255)",
         "contentIndexTop": "<p class=\"align-center\"><strong>WELCOME TO</strong></p>\n<h1 class=\"align-center\">Presbyterian Music Camp</h1>",
+        "cssIndex": "hr {\n margin: 0.5em;\n opacity: 0;\n}",
         "imagesBackground": "media/website/bg3.jpg",
         "imagesFavicon": "media/website/favicon3.png",
         "linksFacebook": "https://www.facebook.com/presbyterianmusiccamp/",
@@ -19,7 +20,6 @@
     },
     "postConfig": {
         "css": "",
-        "isFrontPage": 0,
         "showAuthor": 0
     },
     "defaultTemplates": {
