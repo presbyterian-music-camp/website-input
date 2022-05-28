@@ -1,0 +1,3 @@
+[submodule "themes/pmc"]
+	path = themes/pmc
+	url = https://github.com/presbyterian-music-camp/theme
