@@ -1,26 +1,26 @@
 {
     "config": {
+        "postsPerPage": 4,
+        "tagsPostsPerPage": 8,
         "authorsPostsPerPage": 8,
         "excerptLength": 15,
-        "logo": "media/website/logo.png",
-        "postsPerPage": 4,
-        "tagsPostsPerPage": 8
+        "logo": "media/website/logo.png"
     },
     "customConfig": {
-        "colorsBackground": "#808080",
-        "colorsIndexTop": "#FFFFFF",
-        "colorsMenu": "#FFFFFF",
-        "colorsPage": "rgba(251,249,244,0.9019607843137255)",
-        "contentIndexTop": "<p class=\"align-center\"><strong>WELCOME TO</strong></p>\n<h1 class=\"align-center\">Presbyterian Music Camp</h1>",
-        "cssIndex": "hr {\n margin: 0.5em;\n opacity: 0;\n}",
-        "imagesBackground": "media/website/bg3.jpg",
         "imagesFavicon": "media/website/favicon3.png",
+        "imagesBackground": "media/website/bg3.jpg",
+        "cssIndex": "hr {\n margin: 0.5em;\n opacity: 0;\n}",
+        "contentIndexTop": "<p class=\"align-center\"><strong>WELCOME TO</strong></p>\n<h1 class=\"align-center\">Presbyterian Music Camp</h1>",
+        "colorsBackground": "#808080",
+        "colorsMenu": "#FFFFFF",
+        "colorsIndexTop": "#FFFFFF",
+        "colorsPage": "rgba(251,249,244,0.9019607843137255)",
         "linksFacebook": "https://www.facebook.com/presbyterianmusiccamp/",
-        "linksInstagram": "https://www.instagram.com/pmcmuskoka/"
+        "linksInstagram": "https://www.instagram.com/pmc.community/"
     },
     "postConfig": {
-        "css": "",
-        "showAuthor": 0
+        "showAuthor": 0,
+        "css": ""
     },
     "defaultTemplates": {
         "post": ""
