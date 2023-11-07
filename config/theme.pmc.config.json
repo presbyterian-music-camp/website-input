@@ -8,7 +8,7 @@
     },
     "customConfig": {
         "imagesFavicon": "media/website/favicon3.png",
-        "imagesBackground": "media/website/bg3.jpg",
+        "imagesBackground": "media/website/beach-2.jpg",
         "cssIndex": "hr {\n margin: 0.5em;\n opacity: 0;\n}",
         "contentIndexTop": "<p class=\"align-center\"><strong>WELCOME TO</strong></p>\n<h1 class=\"align-center\">Presbyterian Music Camp</h1>",
         "colorsBackground": "#808080",
