@@ -22,6 +22,9 @@
         "showAuthor": 0,
         "css": ""
     },
+    "pageConfig": {},
+    "tagConfig": {},
+    "authorConfig": {},
     "defaultTemplates": {
         "post": ""
     }

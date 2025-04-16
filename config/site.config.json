@@ -2,12 +2,13 @@
     "uuid": "",
     "name": "presbyterian-music-camp",
     "displayName": "Presbyterian Music Camp",
+    "description": "",
     "synced": "synced",
     "logo": {
         "color": 4,
         "icon": "web-leaf"
     },
-    "domain": "https://presbyterian-music-camp.github.io/website",
+    "domain": "https://www.presbyterianmusiccamp.ca",
     "language": "en",
     "spellchecking": false,
     "advanced": {
@@ -37,10 +38,20 @@
         "metaTitle": "%sitename",
         "metaDescription": "",
         "noIndexThisPage": false,
+        "noIndexForChatGPTBot": false,
+        "noIndexForChatGPTUser": false,
+        "noIndexForCommonCrawlBots": false,
         "homepageNoIndexPagination": false,
+        "homepageNoPagination": false,
         "metaRobotsIndex": "index, follow",
+        "homepageMetaTitle": "%sitename",
+        "homepageMetaDescription": "",
+        "homepageMetaRobotsIndex": "index, follow",
         "postMetaTitle": "%posttitle - %sitename ",
         "postMetaDescription": "",
+        "pageMetaTitle": "%pagetitle - %sitename ",
+        "pageMetaDescription": "",
+        "pageUseTextWithoutCustomExcerpt": false,
         "postUseTextWithoutCustomExcerpt": false,
         "tagMetaTitle": "Tag: %tagname - %sitename",
         "tagMetaDescription": "",
@@ -69,6 +80,8 @@
         "featuredPostsListingOrder": "DESC",
         "hiddenPostsListingOrderBy": "created_at",
         "hiddenPostsListingOrder": "DESC",
+        "usePageAsFrontpage": false,
+        "pageAsFrontpage": 0,
         "feed": {
             "title": "displayName",
             "titleValue": "",
@@ -77,14 +90,18 @@
             "showFeaturedImage": 1,
             "enableRss": 1,
             "enableJson": 1,
+            "updatedDateType": "createdAt",
             "showOnlyFeatured": 0,
             "excludeFeatured": 0
         },
         "urls": {
             "cleanUrls": false,
             "addIndex": false,
+            "postsPrefix": "",
             "tagsPrefix": "",
+            "tagsPrefixAfterPostsPrefix": false,
             "authorsPrefix": "authors",
+            "authorsPrefixAfterPostsPrefix": false,
             "pageName": "page",
             "errorPage": "404.html",
             "searchPage": "search.html"
@@ -123,6 +140,17 @@
                 }
             ],
             "embedConsents": [],
+            "gConsentModeEnabled": false,
+            "gConsentModeDefaultState": {
+                "ad_storage": false,
+                "ad_personalization": false,
+                "ad_user_data": false,
+                "analytics_storage": false,
+                "personalization_storage": false,
+                "functionality_storage": false,
+                "security_storage": false
+            },
+            "gConsentModeGroups": [],
             "saveButtonLabel": "Save",
             "behaviour": "badge",
             "badgeLabel": "Cookie Policy",
@@ -195,9 +223,19 @@
             "key": "",
             "bucket": "",
             "region": "",
+            "customRegion": "",
             "prefix": "",
             "acl": "public-read",
             "removeFiles": false
+        },
+        "git": {
+            "url": "",
+            "branch": "",
+            "user": "",
+            "password": "",
+            "commitAuthor": "",
+            "commitEmail": "",
+            "commitMessage": "Publii: update content"
         },
         "github": {
             "server": "api.github.com",
@@ -210,6 +248,7 @@
         },
         "gitlab": {
             "server": "https://gitlab.com/",
+            "rejectUnauthorized": true,
             "repo": "",
             "branch": "",
             "token": ""
@@ -228,6 +267,6 @@
             "outputDirectory": "/home/dan/Desktop/publii-pmc"
         }
     },
-    "syncDate": 1740765575301,
+    "syncDate": 1744835193011,
     "theme": "pmc"
 }
